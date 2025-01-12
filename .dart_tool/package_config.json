@@ -56,6 +56,12 @@
       "languageVersion": "3.5"
     },
     {
+      "name": "flutter_slidable",
+      "rootUri": "file:///Users/meenuarora/.pub-cache/hosted/pub.dev/flutter_slidable-3.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
       "name": "flutter_test",
       "rootUri": "file:///Users/meenuarora/Desktop/fluttering/development/flutter/packages/flutter_test",
       "packageUri": "lib/",
@@ -170,7 +176,7 @@
       "languageVersion": "3.6"
     }
   ],
-  "generated": "2025-01-12T10:07:02.114998Z",
+  "generated": "2025-01-12T10:44:54.310852Z",
   "generator": "pub",
   "generatorVersion": "3.6.0",
   "flutterRoot": "file:///Users/meenuarora/Desktop/fluttering/development/flutter",

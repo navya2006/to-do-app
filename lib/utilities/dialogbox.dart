@@ -16,7 +16,7 @@ class Dialogbox extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return AlertDialog(
-      backgroundColor: Colors.yellow[400],
+      backgroundColor: Colors.blue[200],
       shape: RoundedRectangleBorder(
         borderRadius: BorderRadius.circular(8.0), // Custom border radius
       ),
